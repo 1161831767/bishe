@@ -1,0 +1,31 @@
+.middle{
+    height: 600px;
+    background-color: rgb(250, 250, 250);
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.left{
+    width: 132px;
+    margin-left: 350px;
+    
+}
+.left ul li{
+    font-size: 16px!important;
+}
+.paotui12{
+    padding-left: 20px!important;
+}
+.right{
+    width: 1000px;
+    border: black 1px solid;
+   
+    height: 500px;
+    float: left;
+    
+    background-color: #fff;
+}
+.two,.three,.four,.five{
+    display: none;
+}

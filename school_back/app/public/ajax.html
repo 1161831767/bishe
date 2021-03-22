@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+		<script type="text/javascript">
+			function getStr1() {
+				let inf = document.getElementById("inf");
+				axios.get("http://localhost:7001/getString.do",{
+					params:{
+						id: 123,
+						name: '小王'
+					}
+				}).then(res=>{
+					 inf.innerHTML = res.data;
+				}).catch(e=>{
+					 inf.innerHTML = "ajax请求失败";
+				});
+			}
+			
+			function getNumber() {
+				let inf = document.getElementById("inf");
+				axios.post("http://localhost:7001/getNumber.do",{
+					id: 1234,
+					name: '小王的岁'
+				}).then(res=>{
+					 inf.innerHTML = res.data;
+				}).catch(e=>{
+					 inf.innerHTML = "ajax请求失败";
+				});
+			}
+			
+			function getStu() {
+				let inf = document.getElementById("inf");	
+				axios.get("http://localhost:7001/getStu.do", {	
+				}).then(res=>{
+					//{id: 22, name: "贾宝玉", age: 17}
+					let stu = res.data;
+					inf.innerHTML = `id=${stu.id},name=${stu.name}, age=${stu.age}`;
+				}).catch(e=>{
+					inf.innerHTML = "ajax请求失败";
+				});
+			} 
+			
+			function getStringArray() {
+				let inf = document.getElementById("inf");
+				axios.get("http://localhost:7001/getStringArray.do",{
+				}).then(r=>{
+					let ul = document.createElement("ul"); 
+					let a = r.data;//接收到服务器响应的数据,该数据是数str数组
+					for(let i=0; i<a.length; i++) {
+						let li = document.createElement("li");
+						li.innerHTML = a[i];
+						ul.appendChild(li);
+					}
+					inf.innerHTML = "";
+					inf.appendChild(ul);
+				}).catch(e=>{
+					inf.innerHTML = "ajax请求失败";
+				})
+			}
+			function getObjectArray() {
+				let inf = document.getElementById("inf");
+				axios.get("http://localhost:7001/getObjectArray.do",{
+					
+				}).then(r=>{
+					console.log(r.data);
+					let a = r.data;//获取服务器响应的对象数组
+					let table = document.createElement("table");
+					table.setAttribute("border","1");
+					table.innerHTML = "<tr><th>id</th><th>name</th><th>age</th></tr>";
+					
+					for(let i=0; i<a.length; i++) {
+						let tr = document.createElement("tr");
+						let td1 = document.createElement("td");
+						td1.innerHTML = a[i].id;
+						let td2 = document.createElement("td");
+						td2.innerHTML = a[i].name;
+						let td3= document.createElement("td");
+						td3.innerHTML = a[i].age;
+						tr.appendChild(td1);
+						tr.appendChild(td2);
+						tr.appendChild(td3);
+						table.appendChild(tr);
+					}
+					inf.innerHTML = "";
+					inf.appendChild(table);
+				}).catch(e=>{
+					inf.innerHTML = "ajax请求失败";
+				})
+			}
+		</script>
+	</head>
+	<body>
+		这是index.html
+		<button onclick="getStr1()">getStr1</button>
+		<button onclick="getNumber()">getNumber</button>
+		<button onclick="getStu()">getStu</button>
+		<button onclick="getStringArray()">getStringArray</button>
+		<button onclick="getObjectArray()">getObjectArray</button>
+		<div id="inf">
+			 
+		</div>
+	</body>
+</html>

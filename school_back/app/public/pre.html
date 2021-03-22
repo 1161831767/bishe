@@ -1,0 +1,42 @@
+<!-- 示例要准备一张名为"e.png"的图片 -->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<style type="text/css">
+			#box {
+				width: 200px;
+				height: 200px;
+				background-image: url("http://localhost:7001/public/e.png");
+				background-size: 100% 100%;
+			}
+			#choose {
+				width: 200px;
+				height: 200px;
+				opacity: 0;
+			}
+		</style>
+		<script type="text/javascript">
+			function preImg() {
+				let file = document.getElementById("choose").files[0];
+				let url = null;
+				if (window.createObjectURL != undefined) {
+					url = window.createObjectURL(file);
+				} else if (window.URL != undefined) {
+					url = window.URL.createObjectURL(file);
+				} else if (window.webkitURL != undefined) {
+					url = window.webkitURL.createObjectURL(file);
+				}
+				let box = document.getElementById("box");
+				console.log(url);
+				box.style.backgroundImage = `url(${url})`
+			}
+		</script>
+	</head>
+	<body>
+		<div id="box">
+			<input id="choose" type="file" onchange="preImg()" />
+		</div>
+	</body>
+</html>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+		<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+		<script type="text/javascript">
+					async function axiosupload() {
+						let file = document.getElementById("choose").files[0];
+						let formData = new FormData();
+						formData.append("uploadFile", file, file.name);
+						const config = {
+							headers: {
+								"Content-Type": "multipart/form-data;boundary=" + new Date().getTime()
+							}
+						};
+						try{
+							let response = await axios.post("http://localhost:7001/upload.do", formData, config)
+							document.getElementsByClassName("newImg")[0].src=response.data;
+						}catch(e) {
+							console.log(e);
+							alert("ajax请求失败")
+						}
+						
+							// .then(function(response) {
+							// 	document.getElementsByClassName("newImg")[0].src=response.data;
+							// })
+							// .catch(function(error) {
+							// });
+					}
+				</script>
+	</head>
+	<body>
+		<input type="file" id="choose" />
+		<br />
+		<button onclick="axiosupload()">axios上传</button>
+		<img class="newImg" />
+	</body>
+</html>

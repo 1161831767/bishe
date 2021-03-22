@@ -1,0 +1,82 @@
+.login_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 700px;
+    background-image: url('../img/login.jpg');
+    background-size: 100% 100%;
+    /* transition: all 1s ease-in-out; */
+}
+.denglukuang,
+.zhucekuang{
+    width: 500px;
+    height: 300px;
+    display: inline-block;
+    padding-left: 15px;
+    line-height: 40px;
+    font-size: 18px;
+    border:1px solid black;
+    background-color: rgba(248, 248, 245, 0.5);
+}
+.ant-input-affix-wrapper {
+    width: 220px;
+}
+.ant-input-affix-wrapper {
+    font-size:19px;
+}
+.top_loginfont{
+    font-size: 24px;
+    text-align: center;
+    margin:15px 0px;
+}
+.login_but{
+   padding-left: 106px;
+   margin-top: 20px;
+   line-height: 20px;
+}
+.zhuce_login{
+    padding-left: 95px;
+   margin-top: 20px;
+   line-height: 20px;
+}
+
+.login{
+    margin-left: 100px;
+}
+.zhuce1{
+    margin-right: 17px;
+}
+.zhuce{
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 20px;
+}
+.zhuce_login{
+    cursor: pointer;
+    font-size: 14px;
+    margin-left: 35px;
+}
+.zhucekuang{
+    width: 500px;
+    height: 500px;
+    display: none;
+    padding-left: 0;
+}
+.zhucekuang .ant-input{
+    width: 220px;
+}
+.zhucekuang .ant-btn.ant-btn-primary{
+    border-radius: 25%;
+}
+.zhucekuang .zhuce_but{
+    
+    margin-left: 130px;;
+}
+#loginname .ant-input{
+height: 30px;
+}
+
+.loginname{
+    margin-left: 25px;
+}

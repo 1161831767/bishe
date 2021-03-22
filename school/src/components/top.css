@@ -1,0 +1,21 @@
+#nav{
+    line-height: 80px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#nav div span{
+    width: 300px;
+    font-size: 30px;
+
+}
+.ant-menu{
+    font-size: 20px;
+
+}
+.ant-menu-item .ant-menu-item-icon, .ant-menu-submenu-title .ant-menu-item-icon, .ant-menu-item .anticon, .ant-menu-submenu-title .anticon{
+font-size: 20px;
+}
+.zhuxiao{
+    margin-left: 10px;
+}

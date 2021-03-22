@@ -1,0 +1,287 @@
+{
+  "keys": "F:\\bishe\\school_back\\config\\config.default.js",
+  "security": {
+    "csrf": {
+      "enable": "F:\\bishe\\school_back\\config\\config.default.js",
+      "ignoreJSON": "F:\\bishe\\school_back\\config\\config.default.js",
+      "type": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "domainWhiteList": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "xframe": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "hsts": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "dta": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "noopen": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "nosniff": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "xssProtection": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "csp": {
+      "enable": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    }
+  },
+  "mysql": {
+    "client": {
+      "host": "F:\\bishe\\school_back\\config\\config.default.js",
+      "port": "F:\\bishe\\school_back\\config\\config.default.js",
+      "user": "F:\\bishe\\school_back\\config\\config.default.js",
+      "password": "F:\\bishe\\school_back\\config\\config.default.js",
+      "database": "F:\\bishe\\school_back\\config\\config.default.js"
+    },
+    "default": {
+      "database": "F:\\bishe\\school_back\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "F:\\bishe\\school_back\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    },
+    "app": "F:\\bishe\\school_back\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+    "agent": "F:\\bishe\\school_back\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+  },
+  "multipart": {
+    "mode": "F:\\bishe\\school_back\\config\\config.default.js",
+    "autoFields": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "cleanSchedule": {
+      "cron": "F:\\bishe\\school_back\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+    }
+  },
+  "cors": {
+    "origin": "F:\\bishe\\school_back\\config\\config.default.js",
+    "allowMethods": "F:\\bishe\\school_back\\config\\config.default.js"
+  },
+  "session": {
+    "maxAge": "F:\\bishe\\school_back\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "F:\\bishe\\school_back\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "F:\\bishe\\school_back\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "F:\\bishe\\school_back\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+  },
+  "helper": {
+    "shtml": "F:\\bishe\\school_back\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+  },
+  "jsonp": {
+    "limit": "F:\\bishe\\school_back\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "F:\\bishe\\school_back\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "F:\\bishe\\school_back\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "F:\\bishe\\school_back\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "F:\\bishe\\school_back\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "F:\\bishe\\school_back\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "F:\\bishe\\school_back\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "F:\\bishe\\school_back\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "F:\\bishe\\school_back\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "F:\\bishe\\school_back\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "F:\\bishe\\school_back\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "F:\\bishe\\school_back\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+  },
+  "watcher": {
+    "type": "F:\\bishe\\school_back\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "eventSources": {
+      "default": "F:\\bishe\\school_back\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "F:\\bishe\\school_back\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "F:\\bishe\\school_back\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js",
+      "file": "F:\\bishe\\school_back\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "F:\\bishe\\school_back\\node_modules\\_egg-schedule@3.6.6@egg-schedule\\config\\config.default.js"
+  },
+  "development": {
+    "watchDirs": "F:\\bishe\\school_back\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "F:\\bishe\\school_back\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "F:\\bishe\\school_back\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "F:\\bishe\\school_back\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "F:\\bishe\\school_back\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "F:\\bishe\\school_back\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "F:\\bishe\\school_back\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "F:\\bishe\\school_back\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "F:\\bishe\\school_back\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "F:\\bishe\\school_back\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "F:\\bishe\\school_back\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "F:\\bishe\\school_back\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "F:\\bishe\\school_back\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+  },
+  "static": {
+    "prefix": "F:\\bishe\\school_back\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "F:\\bishe\\school_back\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "F:\\bishe\\school_back\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "F:\\bishe\\school_back\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "F:\\bishe\\school_back\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "F:\\bishe\\school_back\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+  },
+  "view": {
+    "root": "F:\\bishe\\school_back\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "cache": "F:\\bishe\\school_back\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.local.js",
+    "defaultExtension": "F:\\bishe\\school_back\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "F:\\bishe\\school_back\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js",
+    "mapping": "F:\\bishe\\school_back\\node_modules\\_egg-view@2.1.3@egg-view\\config\\config.default.js"
+  },
+  "env": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "name": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "cookies": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "proxy": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "maxIpsCount": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "maxProxyCount": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "protocolHeaders": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "ipHeaders": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "hostHeaders": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "pkg": {
+    "name": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "version": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "description": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "main": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "scripts": {
+      "test": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "dev": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+    },
+    "author": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "license": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "dependencies": {
+      "egg": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-cors": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "egg-mysql": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "svg-captcha": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+    }
+  },
+  "baseDir": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "HOME": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "rundir": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "dump": {
+    "ignore": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "notFound": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "sitefile": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "middlewares": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "httpClient": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+  },
+  "bodyParser": {
+    "enable": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "encoding": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "formLimit": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "jsonLimit": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "textLimit": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "strict": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "queryString": {
+      "arrayLimit": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "depth": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "parameterLimit": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+    },
+    "onerror": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+  },
+  "logger": {
+    "dir": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "encoding": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "env": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "level": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "consoleLevel": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "outputJSON": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "buffer": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "appLogName": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "coreLogName": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "agentLogName": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "errorLogName": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "coreLogger": {
+      "consoleLevel": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.local.js"
+    },
+    "allowDebugAtProd": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "request": {
+      "timeout": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "maxSockets": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "freeSocketTimeout": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "maxSockets": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "maxFreeSockets": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "logging": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+  },
+  "coreMiddleware": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "workerStartTimeout": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "serverTimeout": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "port": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+      "hostname": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js",
+    "responseTimeout": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+  },
+  "onClientError": "F:\\bishe\\school_back\\node_modules\\_egg@2.29.3@egg\\config\\config.default.js"
+}

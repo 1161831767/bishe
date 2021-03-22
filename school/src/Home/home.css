@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+.homepage{
+    width: 100%;
+    
+}
+.homepage img{
+    width: 99%;
+    height: 90vh;
+    margin-left: 10px;
+    opacity: 0.8;
+}
+.xiadan{
+    border-radius: 20px;
+    position: absolute;
+    right: 44%;
+    top: 85%;
+    width: 220px;
+    height: 50px;
+    font-size: 22px;
+}

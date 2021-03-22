@@ -1,0 +1,83 @@
+.task {
+    width: 60%;
+    margin: auto;
+    border: black 1px solid;
+    position: relative;
+}
+
+.fatask {
+    height: 100px;
+    position: relative;
+}
+
+.fabutton{
+    width: 50%;
+    height: 50px;
+    font-size: 22px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+
+}
+.ant-modal-content{
+    height: 500px;
+}
+.ant-modal-footer{
+    text-align: center;
+}
+
+.tasklist{
+    
+    width: 100%;
+}
+
+.form-box{
+    width: 700px;
+    height: auto;
+    padding:15px;
+    background: white;
+    border: 1px solid;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 20%;
+    left: 32%;
+    z-index: 8;
+
+}
+.ant-form{
+    width: 80%;
+    margin-left: 95px;
+}
+.ant-col-8{
+    flex: 0 0 14%;
+}
+.xtask{
+    position:absolute;
+    font-size: 22px;
+    cursor: pointer;
+    z-index: 20;
+    top: 0;
+    right: 2%;
+   
+}
+
+.task1{
+    border: solid 1px black;
+    padding: 50px 80px;
+    position: relative;
+}
+.content1{
+    display: inline-block;
+    width: 250px;
+   
+    
+}
+.content1 div{
+    display: inline-block;
+}
+.jietask{
+    position: absolute;
+    bottom: 10px;
+    right: 40px;
+}

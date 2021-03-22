@@ -1,0 +1,2225 @@
+2021-03-15 10:47:58,073 ERROR 24092 [-/::1/-/112ms POST /zhuce] nodejs.TypeError: this.ctx.service.userService.zhuce is not a function
+    at admController.zhuce (F:\bishe\school_back\app\controller\userController.js:8:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 24092
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 10:47:58,121 ERROR 24092 [-/::1/-/1ms POST /zhuce] nodejs.TypeError: this.ctx.service.userService.zhuce is not a function
+    at admController.zhuce (F:\bishe\school_back\app\controller\userController.js:8:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 24092
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 10:48:29,100 ERROR 23244 [-/::1/-/18ms POST /zhuce] nodejs.TypeError: this.ctx.service.userService.zhuce is not a function
+    at admController.zhuce (F:\bishe\school_back\app\controller\userController.js:9:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 23244
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 10:54:09,582 ERROR 23244 [-/::1/-/1ms POST /zhuce] nodejs.TypeError: this.ctx.service.userService.zhuce is not a function
+    at admController.zhuce (F:\bishe\school_back\app\controller\userController.js:9:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 23244
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 10:54:55,644 ERROR 13172 [-/::1/-/15ms POST /zhuce] nodejs.TypeError: this.ctx.service.userService.zhuce is not a function
+    at admController.zhuce (F:\bishe\school_back\app\controller\userController.js:9:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13172
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 10:56:24,988 ERROR 23440 [-/::1/-/19ms POST /zhuce] nodejs.ER_NO_SUCH_TABLEError: ER_NO_SUCH_TABLE: Table 'jzgongyi.user' doesn't exist
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select username from user where username='阿飞'
+code: "ER_NO_SUCH_TABLE"
+errno: 1146
+sqlMessage: "Table 'jzgongyi.user' doesn't exist"
+sqlState: "42S02"
+index: 0
+sql: "select username from user where username='阿飞'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_NO_SUCH_TABLEError"
+pid: 23440
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 10:58:44,741 ERROR 23440 [-/::1/-/5ms POST /zhuce] nodejs.ER_NO_SUCH_TABLEError: ER_NO_SUCH_TABLE: Table 'jzgongyi.user' doesn't exist
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select username from user where username='阿飞'
+code: "ER_NO_SUCH_TABLE"
+errno: 1146
+sqlMessage: "Table 'jzgongyi.user' doesn't exist"
+sqlState: "42S02"
+index: 0
+sql: "select username from user where username='阿飞'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_NO_SUCH_TABLEError"
+pid: 23440
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 10:59:41,373 ERROR 26640 [-/::1/-/21ms POST /zhuce] nodejs.ER_NO_DEFAULT_FOR_FIELDError: ER_NO_DEFAULT_FOR_FIELD: Field 'headimg' doesn't have a default value
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into user(username,pwd)values('阿飞','123456a')
+code: "ER_NO_DEFAULT_FOR_FIELD"
+errno: 1364
+sqlMessage: "Field 'headimg' doesn't have a default value"
+sqlState: "HY000"
+index: 0
+sql: "insert into user(username,pwd)values('阿飞','123456a')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_NO_DEFAULT_FOR_FIELDError"
+pid: 26640
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 11:22:35,257 ERROR 16460 [-/::1/-/19ms POST /login] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'shenfen' in 'field list'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select id,username,shenfen,headimg from user where username='阿飞' and pwd='123456a'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'shenfen' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "select id,username,shenfen,headimg from user where username='阿飞' and pwd='123456a'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 16460
+hostname: DESKTOP-CJF7Q63
+
+2021-03-15 11:23:39,781 ERROR 16460 [-/::1/-/2ms POST /login] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'shenfen' in 'field list'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select id,username,shenfen,headimg from user where username='阿飞' and pwd='123456a'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'shenfen' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "select id,username,shenfen,headimg from user where username='阿飞' and pwd='123456a'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 16460
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 14:28:38,446 ERROR 5568 [-/::1/-/6ms GET /shangchuan?name=%E8%BA%AB%E4%BB%BD%E8%AF%81&times=16%E6%97%A5&spot=%E6%93%8D%E5%9C%BA&description=123&phone=123145678] nodejs.ReferenceError: ctx is not defined
+    at lostController.shangchuan (F:\bishe\school_back\app\controller\lostController.js:11:17)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 5568
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 14:51:22,699 ERROR 26028 [-/::1/-/8ms GET /shangchuan?name=%E8%BA%AB%E4%BB%BD%E8%AF%81&times=16%E6%97%A5&spot=%E6%93%8D%E5%9C%BA&description=123&phone=12345678912] nodejs.ReferenceError: ctx is not defined
+    at lostController.shangchuan (F:\bishe\school_back\app\controller\lostController.js:11:17)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 26028
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 14:53:21,893 ERROR 26028 [-/::1/-/1ms GET /shangchuan?name=%E8%BA%AB%E4%BB%BD%E8%AF%81&times=123&spot=123&description=132&phone=123] nodejs.ReferenceError: ctx is not defined
+    at lostController.shangchuan (F:\bishe\school_back\app\controller\lostController.js:11:17)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 26028
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 14:53:21,902 ERROR 26028 [-/::1/-/1ms GET /shangchuan?name=%E8%BA%AB%E4%BB%BD%E8%AF%81&times=123&spot=123&description=132&phone=123] nodejs.ReferenceError: ctx is not defined
+    at lostController.shangchuan (F:\bishe\school_back\app\controller\lostController.js:11:17)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 26028
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 15:53:55,929 ERROR 1116 [-/::1/-/40ms POST /uploadImg] nodejs.TypeError: Cannot read property 'uploadImg' of undefined
+    at admController.uploadImg (F:\bishe\school_back\app\controller\admController.js:39:45)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1116
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:41:28,472 ERROR 344 [-/::1/-/10ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:31:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 344
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:42:22,556 ERROR 8804 [-/127.0.0.1/-/5ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:31:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 8804
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:42:38,690 ERROR 5148 [-/::1/-/9ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:31:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 5148
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:46:24,669 ERROR 11180 [-/::1/-/8ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:31:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 11180
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:47:44,871 ERROR 13452 [-/::1/-/8ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:30:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13452
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:49:10,818 ERROR 1552 [-/::1/-/10ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:30:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1552
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:49:30,996 ERROR 1552 [-/::1/-/1ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:30:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1552
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:50:06,526 ERROR 6848 [-/::1/-/9ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:31:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 6848
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:50:24,449 ERROR 6848 [-/::1/-/4826ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:31:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 6848
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:50:54,894 ERROR 10064 [-/::1/-/9ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:30:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10064
+hostname: DESKTOP-CJF7Q63
+
+2021-03-16 16:59:21,355 ERROR 10064 [-/::1/-/1ms GET /showlist] nodejs.TypeError: this.ctx.service.lostService.showlist is not a function
+    at lostController.showlist (F:\bishe\school_back\app\controller\lostController.js:30:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10064
+hostname: DESKTOP-CJF7Q63
+
+2021-03-17 15:32:02,334 ERROR 10000 [-/::1/-/113ms POST /fabu] nodejs.ER_NO_DEFAULT_FOR_FIELDError: ER_NO_DEFAULT_FOR_FIELD: Field 'id' doesn't have a default value
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into task(name, times,spot,description,phone)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','135486563265')
+code: "ER_NO_DEFAULT_FOR_FIELD"
+errno: 1364
+sqlMessage: "Field 'id' doesn't have a default value"
+sqlState: "HY000"
+index: 0
+sql: "insert into task(name, times,spot,description,phone)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','135486563265')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_NO_DEFAULT_FOR_FIELDError"
+pid: 10000
+hostname: DESKTOP-CJF7Q63
+
+2021-03-17 15:32:51,661 ERROR 10000 [-/::1/-/3ms POST /fabu] nodejs.ER_NO_DEFAULT_FOR_FIELDError: ER_NO_DEFAULT_FOR_FIELD: Field 'money' doesn't have a default value
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into task(name, times,spot,description,phone)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','135486563265')
+code: "ER_NO_DEFAULT_FOR_FIELD"
+errno: 1364
+sqlMessage: "Field 'money' doesn't have a default value"
+sqlState: "HY000"
+index: 0
+sql: "insert into task(name, times,spot,description,phone)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','135486563265')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_NO_DEFAULT_FOR_FIELDError"
+pid: 10000
+hostname: DESKTOP-CJF7Q63
+
+2021-03-17 15:34:53,245 ERROR 18044 [-/::1/-/29ms POST /fabu] nodejs.ER_WARN_DATA_OUT_OF_RANGEError: ER_WARN_DATA_OUT_OF_RANGE: Out of range value for column 'phone' at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into task(name, times,spot,description,phone,money)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','135486563265','3元')
+code: "ER_WARN_DATA_OUT_OF_RANGE"
+errno: 1264
+sqlMessage: "Out of range value for column 'phone' at row 1"
+sqlState: "22003"
+index: 0
+sql: "insert into task(name, times,spot,description,phone,money)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','135486563265','3元')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WARN_DATA_OUT_OF_RANGEError"
+pid: 18044
+hostname: DESKTOP-CJF7Q63
+
+2021-03-17 15:37:27,481 ERROR 18044 [-/::1/-/2ms POST /fabu] nodejs.ER_WARN_DATA_OUT_OF_RANGEError: ER_WARN_DATA_OUT_OF_RANGE: Out of range value for column 'phone' at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into task(name, times,spot,description,phone,money)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','13548656326','3元')
+code: "ER_WARN_DATA_OUT_OF_RANGE"
+errno: 1264
+sqlMessage: "Out of range value for column 'phone' at row 1"
+sqlState: "22003"
+index: 0
+sql: "insert into task(name, times,spot,description,phone,money)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','13548656326','3元')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WARN_DATA_OUT_OF_RANGEError"
+pid: 18044
+hostname: DESKTOP-CJF7Q63
+
+2021-03-17 15:37:52,500 ERROR 16756 [-/::1/-/29ms POST /fabu] nodejs.ER_WARN_DATA_OUT_OF_RANGEError: ER_WARN_DATA_OUT_OF_RANGE: Out of range value for column 'phone' at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into task(name, times,spot,description,phone,money)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','13548656326','3元')
+code: "ER_WARN_DATA_OUT_OF_RANGE"
+errno: 1264
+sqlMessage: "Out of range value for column 'phone' at row 1"
+sqlState: "22003"
+index: 0
+sql: "insert into task(name, times,spot,description,phone,money)values('尹志航','3月18日晚上八点以前','从校外到山顶','带奶茶','13548656326','3元')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WARN_DATA_OUT_OF_RANGEError"
+pid: 16756
+hostname: DESKTOP-CJF7Q63
+
+2021-03-17 17:29:04,799 ERROR 15276 [-/::1/-/5ms GET /status] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '${id}' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: update  task set status=1 where id = `${id}`
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '${id}' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "update  task set status=1 where id = `${id}`"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 15276
+hostname: DESKTOP-CJF7Q63
+
+2021-03-17 17:48:54,453 ERROR 2220 [-/::1/-/2ms POST /fabu] nodejs.ER_BAD_NULL_ERRORError: ER_BAD_NULL_ERROR: Column 'name' cannot be null
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into task(name, times,spot,description,phone,money)values(NULL,'4月20日前','山腰','帮忙寄快递',NULL,NULL)
+code: "ER_BAD_NULL_ERROR"
+errno: 1048
+sqlMessage: "Column 'name' cannot be null"
+sqlState: "23000"
+index: 0
+sql: "insert into task(name, times,spot,description,phone,money)values(NULL,'4月20日前','山腰','帮忙寄快递',NULL,NULL)"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_NULL_ERRORError"
+pid: 2220
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 11:26:27,187 ERROR 7116 [-/::1/-/97ms POST /zhuce] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call)values('阿飞','123456a','刘健飞','15178927457')' at line 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into user(username,pwd,name,call)values('阿飞','123456a','刘健飞','15178927457')
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'call)values('阿飞','123456a','刘健飞','15178927457')' at line 1"
+sqlState: "42000"
+index: 0
+sql: "insert into user(username,pwd,name,call)values('阿飞','123456a','刘健飞','15178927457')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 7116
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:12:21,549 ERROR 16744 [-/::1/-/47ms POST /updataimg] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'url' in 'field list'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: update user set url='http://localhost:7001/public/upload/0e0717c6-30cd-44b1-b963-cf97848d6297.jpg' where id=NULL
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'url' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "update user set url='http://localhost:7001/public/upload/0e0717c6-30cd-44b1-b963-cf97848d6297.jpg' where id=NULL"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 16744
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:26:39,142 ERROR 10280 [-/::1/-/79ms POST /updataimg] nodejs.ReferenceError: u is not defined
+    at lostService.updataimg (F:\bishe\school_back\app\service\myService.js:10:57)
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:50)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10280
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:27:07,052 ERROR 5780 [-/::1/-/42ms POST /updataimg] nodejs.ReferenceError: headimg is not defined
+    at lostService.updataimg (F:\bishe\school_back\app\service\myService.js:10:57)
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:50)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 5780
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:27:59,525 ERROR 10104 [-/::1/-/58ms POST /updataimg] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: update user set headimg=NULL where id=?
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '?' at line 1"
+sqlState: "42000"
+index: 0
+sql: "update user set headimg=NULL where id=?"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 10104
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:30:24,705 ERROR 16516 [-/::1/-/60ms POST /updataimg] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from user where id = undefined' at line 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: slect * from user where id = undefined
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'slect * from user where id = undefined' at line 1"
+sqlState: "42000"
+index: 0
+sql: "slect * from user where id = undefined"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 16516
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:33:39,989 ERROR 13900 [-/::1/-/100ms POST /updataimg] nodejs.TypeError: Cannot read property '0' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:11:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13900
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:33:40,003 ERROR 13900 [-/::1/-/1ms POST /updataimg] nodejs.TypeError: Cannot read property '0' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:11:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13900
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:33:49,864 ERROR 13900 [-/::1/-/1ms POST /updataimg] nodejs.TypeError: Cannot read property '0' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:11:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13900
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:33:49,876 ERROR 13900 [-/::1/-/1ms POST /updataimg] nodejs.TypeError: Cannot read property '0' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:11:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13900
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:34:01,722 ERROR 13900 [-/::1/-/1ms POST /updataimg] nodejs.TypeError: Cannot read property '0' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:11:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13900
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:34:01,730 ERROR 13900 [-/::1/-/1ms POST /updataimg] nodejs.TypeError: Cannot read property '0' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:11:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13900
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:35:47,466 ERROR 13900 [-/::1/-/71ms POST /updataimg] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select * from user where id = undefined
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "select * from user where id = undefined"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 13900
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:36:41,915 ERROR 13900 [-/::1/-/61ms POST /updataimg] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'undefined' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select * from user where id = undefined
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'undefined' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "select * from user where id = undefined"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 13900
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:52:29,272 ERROR 14356 [-/::1/-/55ms POST /updataimg?id=this.state.id] nodejs.TypeError: Cannot read property 'body' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:80)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14356
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:52:46,731 ERROR 14356 [-/::1/-/29ms POST /updataimg?id=this.state.id] nodejs.TypeError: Cannot read property 'body' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:80)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14356
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 17:53:09,788 ERROR 14356 [-/::1/-/60ms POST /updataimg?id={this.state.id}] nodejs.TypeError: Cannot read property 'body' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:80)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14356
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:01:30,587 ERROR 14356 [-/::1/-/50ms POST /updataimg?id=/2] nodejs.TypeError: Cannot read property 'body' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:80)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14356
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:07:21,253 ERROR 14356 [-/::1/-/56077ms POST /updataimg?id=/2] nodejs.TypeError: Cannot read property 'body' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:80)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14356
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:07:21,358 ERROR 14356 [-/::1/-/80ms POST /updataimg?id=/2] nodejs.TypeError: Cannot read property 'body' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:80)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 14356
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:08:02,815 ERROR 9144 [-/::1/-/69ms POST /updataimg?id=/2] nodejs.TypeError: Cannot read property 'body' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:80)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 9144
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:12:57,939 ERROR 9144 [-/::1/-/41ms POST /updataimg?id=/2] nodejs.TypeError: Cannot read property 'body' of undefined
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:20:80)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 9144
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:13:43,744 ERROR 17044 [-/::1/-/104ms POST /updataimg?id=/2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'custom_id' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: UPDATE `user` SET `headimg` = 'http://localhost:7001/public/upload/019cdb4c-df4f-4fdd-834e-5fc88e746664.jpg' WHERE `custom_id` IS NULL
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'custom_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "UPDATE `user` SET `headimg` = 'http://localhost:7001/public/upload/019cdb4c-df4f-4fdd-834e-5fc88e746664.jpg' WHERE `custom_id` IS NULL"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 17044
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:15:24,643 ERROR 11512 [-/::1/-/73ms POST /updataimg?id=/2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'custom_id' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: UPDATE `user` SET `headimg` = 'http://localhost:7001/public/upload/dfe44fef-b35e-40db-9495-858e36d0cbe5.jpg' WHERE `custom_id` IS NULL
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'custom_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "UPDATE `user` SET `headimg` = 'http://localhost:7001/public/upload/dfe44fef-b35e-40db-9495-858e36d0cbe5.jpg' WHERE `custom_id` IS NULL"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 11512
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:17:15,512 ERROR 11512 [-/::1/-/28ms POST /updataimg?id=/2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'custom_id' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: UPDATE `user` SET `headimg` = 'http://localhost:7001/public/upload/fb86a947-47ba-4a06-b175-4e70c35d2778.jpg' WHERE `custom_id` IS NULL
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'custom_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "UPDATE `user` SET `headimg` = 'http://localhost:7001/public/upload/fb86a947-47ba-4a06-b175-4e70c35d2778.jpg' WHERE `custom_id` IS NULL"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 11512
+hostname: DESKTOP-CJF7Q63
+
+2021-03-18 18:18:10,430 ERROR 5696 [-/::1/-/6121ms POST /updataimg?id=/2] nodejs.ReferenceError: Cannot access 'newUrl' before initialization
+    at lostController.updataimg (F:\bishe\school_back\app\controller\myController.js:24:17)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async F:\bishe\school_back\node_modules\_egg-development@2.7.0@egg-development\app\middleware\egg_loader_trace.js:9:50
+    at async xframe (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xframe.js:7:5)
+    at async xssProtection (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\xssProtection.js:7:5)
+    at async nosniff (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\nosniff.js:8:5)
+    at async noopen (F:\bishe\school_back\node_modules\_egg-security@2.8.0@egg-security\lib\middlewares\noopen.js:8:5)
+    at async session (F:\bishe\school_back\node_modules\_koa-session@6.1.0@koa-session\index.js:41:7)
+    at async bodyParser (F:\bishe\school_back\node_modules\_koa-bodyparser@4.3.0@koa-bodyparser\index.js:95:5)
+    at async F:\bishe\school_back\node_modules\_koa-static-cache@5.1.4@koa-static-cache\index.js:39:63
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 5696
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 11:03:27,926 ERROR 12020 [-/::1/-/16ms POST /gaitel] nodejs.ReferenceError: id is not defined
+    at lostController.gaitel (F:\bishe\school_back\app\controller\myController.js:39:60)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 12020
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 11:04:12,475 ERROR 1040 [-/::1/-/17ms POST /gaitel] nodejs.TypeError: this.ctx.service.taskService.gaitel is not a function
+    at lostController.gaitel (F:\bishe\school_back\app\controller\myController.js:41:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1040
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 11:04:39,043 ERROR 1040 [-/::1/-/2ms POST /gaitel] nodejs.TypeError: this.ctx.service.taskService.gaitel is not a function
+    at lostController.gaitel (F:\bishe\school_back\app\controller\myController.js:41:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1040
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 11:04:39,051 ERROR 1040 [-/::1/-/1ms POST /gaitel] nodejs.TypeError: this.ctx.service.taskService.gaitel is not a function
+    at lostController.gaitel (F:\bishe\school_back\app\controller\myController.js:41:49)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 1040
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 11:06:16,686 ERROR 15384 [-/::1/-/20ms POST /gaitel] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata set user tel='13594104261' where id='2'' at line 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: updata set user tel='13594104261' where id='2'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata set user tel='13594104261' where id='2'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "updata set user tel='13594104261' where id='2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 15384
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 11:09:18,494 ERROR 15384 [-/::1/-/3ms POST /gaitel] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata set user tel='13594104261' where id='2'' at line 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: updata set user tel='13594104261' where id='2'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata set user tel='13594104261' where id='2'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "updata set user tel='13594104261' where id='2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 15384
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 11:09:39,643 ERROR 15848 [-/::1/-/20ms POST /gaitel] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata user set tel='13594104261' where id='2'' at line 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: updata user set tel='13594104261' where id='2'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata user set tel='13594104261' where id='2'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "updata user set tel='13594104261' where id='2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 15848
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 11:10:06,385 ERROR 15848 [-/::1/-/3ms POST /gaitel] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata user set tel='13594104261' where id='2'' at line 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: updata user set tel='13594104261' where id='2'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'updata user set tel='13594104261' where id='2'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "updata user set tel='13594104261' where id='2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 15848
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 14:15:44,694 ERROR 13616 [-/::1/-/3ms POST /gaipwd] nodejs.ReferenceError: id is not defined
+    at lostController.gaipwd (F:\bishe\school_back\app\controller\myController.js:47:58)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13616
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 14:17:46,630 ERROR 13616 [-/::1/-/1ms POST /gaipwd] nodejs.ReferenceError: id is not defined
+    at lostController.gaipwd (F:\bishe\school_back\app\controller\myController.js:47:58)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:36:12
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 13616
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 14:18:34,393 ERROR 10360 [-/::1/-/2ms POST /gaipwd] nodejs.ReferenceError: id is not defined
+    at lostService.gaipwd (F:\bishe\school_back\app\service\myService.js:31:57)
+    at lostController.gaipwd (F:\bishe\school_back\app\controller\myController.js:48:47)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10360
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 14:19:17,389 ERROR 10360 [-/::1/-/0ms POST /gaipwd] nodejs.ReferenceError: id is not defined
+    at lostService.gaipwd (F:\bishe\school_back\app\service\myService.js:31:57)
+    at lostController.gaipwd (F:\bishe\school_back\app\controller\myController.js:48:47)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 10360
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 14:59:28,386 ERROR 6412 [-/::1/-/5ms GET /shangchuan?name=%E7%8C%AB&times=19%E6%97%A5%E4%B8%8B%E5%8D%88%E4%B8%89%E7%82%B9&spot=%E6%93%8D%E5%9C%BA&description=%E7%8C%AB&phone=16452348620] nodejs.ER_WRONG_VALUE_COUNT_ON_ROWError: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into goods(name, times,spot,description,phone，user_id)values('猫','19日下午三点','操场','猫','16452348620',NULL)
+code: "ER_WRONG_VALUE_COUNT_ON_ROW"
+errno: 1136
+sqlMessage: "Column count doesn't match value count at row 1"
+sqlState: "21S01"
+index: 0
+sql: "insert into goods(name, times,spot,description,phone，user_id)values('猫','19日下午三点','操场','猫','16452348620',NULL)"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WRONG_VALUE_COUNT_ON_ROWError"
+pid: 6412
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:01:51,732 ERROR 10644 [-/::1/-/10ms GET /shangchuan?name=%E7%8C%AB&times=19%E6%97%A5%E4%B8%8B%E5%8D%883%E7%82%B9&spot=%E5%AE%BF%E8%88%8D%E9%97%A8%E5%8F%A3&description=%E7%8C%AB&phone=13579513556] nodejs.ER_WRONG_VALUE_COUNT_ON_ROWError: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into goods(name, times,spot,description,phone，user_id)values('猫','19日下午3点','宿舍门口','猫','13579513556',NULL)
+code: "ER_WRONG_VALUE_COUNT_ON_ROW"
+errno: 1136
+sqlMessage: "Column count doesn't match value count at row 1"
+sqlState: "21S01"
+index: 0
+sql: "insert into goods(name, times,spot,description,phone，user_id)values('猫','19日下午3点','宿舍门口','猫','13579513556',NULL)"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WRONG_VALUE_COUNT_ON_ROWError"
+pid: 10644
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:03:19,109 ERROR 10644 [-/::1/-/3ms GET /shangchuan?name=%E7%8C%AB&times=19%E6%97%A5%E4%B8%8B%E5%8D%883%E7%82%B9&spot=%E5%AE%BF%E8%88%8D%E9%97%A8%E5%8F%A3&description=%E7%8C%AB&phone=12354896745&user_id=2] nodejs.ER_WRONG_VALUE_COUNT_ON_ROWError: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into goods(name, times,spot,description,phone，user_id)values('猫','19日下午3点','宿舍门口','猫','12354896745','2')
+code: "ER_WRONG_VALUE_COUNT_ON_ROW"
+errno: 1136
+sqlMessage: "Column count doesn't match value count at row 1"
+sqlState: "21S01"
+index: 0
+sql: "insert into goods(name, times,spot,description,phone，user_id)values('猫','19日下午3点','宿舍门口','猫','12354896745','2')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WRONG_VALUE_COUNT_ON_ROWError"
+pid: 10644
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:04:47,884 ERROR 8632 [-/::1/-/4ms GET /shangchuan?name=%E7%8C%AB&times=19%E6%97%A5%E4%B8%8B%E5%8D%88&spot=%E5%AE%BF%E8%88%8D%E9%97%A8%E5%8F%A3&description=%E7%8C%AB&phone=13548764526&user_id=2] nodejs.ER_WRONG_VALUE_COUNT_ON_ROWError: ER_WRONG_VALUE_COUNT_ON_ROW: Column count doesn't match value count at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into goods(name, times,spot,description,phone，user_id)values('猫','19日下午','宿舍门口','猫','13548764526','2')
+code: "ER_WRONG_VALUE_COUNT_ON_ROW"
+errno: 1136
+sqlMessage: "Column count doesn't match value count at row 1"
+sqlState: "21S01"
+index: 0
+sql: "insert into goods(name, times,spot,description,phone，user_id)values('猫','19日下午','宿舍门口','猫','13548764526','2')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_WRONG_VALUE_COUNT_ON_ROWError"
+pid: 8632
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:18:26,047 ERROR 15384 [-/::1/-/5ms GET /shangchuan?name=%E7%8C%AB&times=19%E6%97%A5%E4%B8%8B%E5%8D%88&spot=%E5%AE%BF%E8%88%8D%E9%97%A8%E5%8F%A3&description=%E7%8C%AB&phone=13548764526&user_id=2] nodejs.ReferenceError: name is not defined
+    at lostService.shangchuan (F:\bishe\school_back\app\service\lostService.js:9:61)
+    at lostController.shangchuan (F:\bishe\school_back\app\controller\lostController.js:20:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 15384
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:24:22,755 ERROR 8176 [-/::1/-/13ms GET /shangchuan?name=c&times=c&spot=%E5%90%83&description=+%E5%90%83&phone=%E5%90%83&user_id=2] nodejs.ER_NO_DEFAULT_FOR_FIELDError: ER_NO_DEFAULT_FOR_FIELD: Field 'times' doesn't have a default value
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `goods`(`name`) VALUES('c,times: c,spot: 吃,description:  吃,phone: 吃,user_id: undefined,')
+code: "ER_NO_DEFAULT_FOR_FIELD"
+errno: 1364
+sqlMessage: "Field 'times' doesn't have a default value"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `goods`(`name`) VALUES('c,times: c,spot: 吃,description:  吃,phone: 吃,user_id: undefined,')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_NO_DEFAULT_FOR_FIELDError"
+pid: 8176
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:25:48,152 ERROR 8176 [-/::1/-/2ms GET /shangchuan?name=c&times=c&spot=%E5%90%83&description=+%E5%90%83&phone=%E5%90%83&user_id=2] nodejs.ER_NO_DEFAULT_FOR_FIELDError: ER_NO_DEFAULT_FOR_FIELD: Field 'times' doesn't have a default value
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `goods`(`name`) VALUES('c,times: c,spot: 吃,description:  吃,phone: 吃,user_id: undefined,')
+code: "ER_NO_DEFAULT_FOR_FIELD"
+errno: 1364
+sqlMessage: "Field 'times' doesn't have a default value"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `goods`(`name`) VALUES('c,times: c,spot: 吃,description:  吃,phone: 吃,user_id: undefined,')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_NO_DEFAULT_FOR_FIELDError"
+pid: 8176
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:26:25,153 ERROR 9684 [-/::1/-/9ms GET /shangchuan?name=%E5%8F%91&times=%E5%8F%91&spot=%E5%8F%91&description=+%E5%8F%91&phone=%E5%8F%91&user_id=2] nodejs.ER_NO_DEFAULT_FOR_FIELDError: ER_NO_DEFAULT_FOR_FIELD: Field 'times' doesn't have a default value
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `goods`(`name`) VALUES('发,times: 发,spot: 发,description:  发,phone: 发,user_id: 2,')
+code: "ER_NO_DEFAULT_FOR_FIELD"
+errno: 1364
+sqlMessage: "Field 'times' doesn't have a default value"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `goods`(`name`) VALUES('发,times: 发,spot: 发,description:  发,phone: 发,user_id: 2,')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_NO_DEFAULT_FOR_FIELDError"
+pid: 9684
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:28:56,886 ERROR 7296 [-/::1/-/17ms GET /shangchuan?name=%E6%98%AF&times=%E6%98%AF&spot=%E6%98%AF&description=%E6%98%AF&phone=%E6%98%AF&user_id=2] nodejs.ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError: ER_TRUNCATED_WRONG_VALUE_FOR_FIELD: Incorrect integer value: ' 是' for column 'phone' at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `goods`(`name`, `times`, `spot`, `description`, `phone`, `user_id`) VALUES('是', '是', '是', '是', ' 是', '2,')
+code: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELD"
+errno: 1366
+sqlMessage: "Incorrect integer value: ' 是' for column 'phone' at row 1"
+sqlState: "HY000"
+index: 0
+sql: "INSERT INTO `goods`(`name`, `times`, `spot`, `description`, `phone`, `user_id`) VALUES('是', '是', '是', '是', ' 是', '2,')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_TRUNCATED_WRONG_VALUE_FOR_FIELDError"
+pid: 7296
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:29:34,872 ERROR 7296 [-/::1/-/8ms GET /shangchuan?name=%E6%98%AF&times=%E6%98%AF&spot=%E6%98%AF&description=%E6%98%AF&phone=17687122001&user_id=2] nodejs.WARN_DATA_TRUNCATEDError: WARN_DATA_TRUNCATED: Data truncated for column 'user_id' at row 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: INSERT INTO `goods`(`name`, `times`, `spot`, `description`, `phone`, `user_id`) VALUES('是', '是', '是', '是', ' 17687122001', '2,')
+code: "WARN_DATA_TRUNCATED"
+errno: 1265
+sqlMessage: "Data truncated for column 'user_id' at row 1"
+sqlState: "01000"
+index: 0
+sql: "INSERT INTO `goods`(`name`, `times`, `spot`, `description`, `phone`, `user_id`) VALUES('是', '是', '是', '是', ' 17687122001', '2,')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "WARN_DATA_TRUNCATEDError"
+pid: 7296
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:40:46,226 ERROR 19272 [-/::1/-/15ms POST /fabu] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'usere_id1' in 'field list'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: insert into task(name, times,spot,description,phone,money,usere_id1)values('尹志航','3月18日晚上八点以前','从校外到山腰','带奶茶','135486563265','8块','2')
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'usere_id1' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "insert into task(name, times,spot,description,phone,money,usere_id1)values('尹志航','3月18日晚上八点以前','从校外到山腰','带奶茶','135486563265','8块','2')"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 19272
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:47:04,842 ERROR 16736 [-/::1/-/27ms POST /fabu] nodejs.ReferenceError: user_id1 is not defined
+    at lostService.fabu (F:\bishe\school_back\app\service\taskService.js:9:102)
+    at lostController.fabu (F:\bishe\school_back\app\controller\taskController.js:14:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 16736
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:48:08,036 ERROR 16736 [-/::1/-/1ms POST /fabu] nodejs.ReferenceError: user_id1 is not defined
+    at lostService.fabu (F:\bishe\school_back\app\service\taskService.js:9:102)
+    at lostController.fabu (F:\bishe\school_back\app\controller\taskController.js:14:55)
+    at Object.callFn (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (F:\bishe\school_back\node_modules\_egg-core@4.20.0@egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+    at next (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:45:18)
+    at F:\bishe\school_back\node_modules\_@eggjs_router@2.0.0@@eggjs\router\lib\router.js:190:18
+    at dispatch (F:\bishe\school_back\node_modules\_koa-compose@3.2.1@koa-compose\index.js:44:32)
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+pid: 16736
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:51:57,495 ERROR 9412 [-/::1/-/3ms GET /status?id=8&user_id2=2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'usere_id2' in 'field list'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: update  task set status=1,usere_id2='8' where id = '2'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'usere_id2' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "update  task set status=1,usere_id2='8' where id = '2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 9412
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 15:52:40,338 ERROR 9412 [-/::1/-/2ms GET /status?id=8&user_id2=2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'usere_id2' in 'field list'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: update  task set status=1,usere_id2='8' where id = '2'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'usere_id2' in 'field list'"
+sqlState: "42S22"
+index: 0
+sql: "update  task set status=1,usere_id2='8' where id = '2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 9412
+hostname: DESKTOP-CJF7Q63
+
+2021-03-19 16:04:28,819 ERROR 18312 [-/::1/-/5ms GET /status?id=7&user_id2=2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column '${id}' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: update  task set status=1,user_id2=`${user_id2}` where id = `${id}`
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column '${id}' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "update  task set status=1,user_id2=`${user_id2}` where id = `${id}`"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 18312
+hostname: DESKTOP-CJF7Q63
+
+2021-03-21 20:13:00,149 ERROR 19408 [-/::1/-/11ms GET /dellost?id=22] nodejs.ER_PARSE_ERRORError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* from goods where id='22'' at line 1
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: delete * from goods where id='22'
+code: "ER_PARSE_ERROR"
+errno: 1064
+sqlMessage: "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '* from goods where id='22'' at line 1"
+sqlState: "42000"
+index: 0
+sql: "delete * from goods where id='22'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_PARSE_ERRORError"
+pid: 19408
+hostname: DESKTOP-CJF7Q63
+
+2021-03-22 15:02:31,341 ERROR 11544 [-/::1/-/44ms GET /tasklist?id=2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'user_id' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select * from task where user_id='2'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'user_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "select * from task where user_id='2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 11544
+hostname: DESKTOP-CJF7Q63
+
+2021-03-22 15:02:52,559 ERROR 11544 [-/::1/-/6ms GET /tasklist?id=2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'user_id' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select * from task where user_id='2'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'user_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "select * from task where user_id='2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 11544
+hostname: DESKTOP-CJF7Q63
+
+2021-03-22 15:03:16,263 ERROR 11544 [-/::1/-/3ms GET /tasklist?id=2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'user_id' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select * from task where user_id='2'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'user_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "select * from task where user_id='2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 11544
+hostname: DESKTOP-CJF7Q63
+
+2021-03-22 15:04:45,128 ERROR 11544 [-/::1/-/3ms GET /tasklist?id=2] nodejs.ER_BAD_FIELD_ERRORError: ER_BAD_FIELD_ERROR: Unknown column 'user_id' in 'where clause'
+    at Query.Sequence._packetToError (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Sequence.js:47:14)
+    at Query.ErrorPacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\sequences\Query.js:79:18)
+    at Protocol._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:291:23)
+    at Parser._parsePacket (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:433:10)
+    at Parser.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Parser.js:43:10)
+    at Protocol.write (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:38:16)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:88:28)
+    at Socket.<anonymous> (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:526:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (_stream_readable.js:295:12)
+    --------------------
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:199:23)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as query] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at RDSClient.proto._query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\client.js:38:20)
+    at RDSClient.proto.query (F:\bishe\school_back\node_modules\_ali-rds@3.4.0@ali-rds\lib\operator.js:54:29)
+    at proto.query.next (<anonymous>)
+    at onFulfilled (F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:65:19)
+    at F:\bishe\school_back\node_modules\_co@4.6.0@co\index.js:54:5
+    sql: select * from task where user_id='2'
+code: "ER_BAD_FIELD_ERROR"
+errno: 1054
+sqlMessage: "Unknown column 'user_id' in 'where clause'"
+sqlState: "42S22"
+index: 0
+sql: "select * from task where user_id='2'"
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ER_BAD_FIELD_ERRORError"
+pid: 11544
+hostname: DESKTOP-CJF7Q63
+
+2021-03-22 15:09:31,813 ERROR 19620 [-/::1/-/106632ms GET /tasklist?id=2] nodejs.ETIMEDOUTError: connect ETIMEDOUT
+    at PoolConnection.Connection._handleConnectTimeout (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:409:13)
+    at Object.onceWrapper (events.js:421:28)
+    at Socket.emit (events.js:315:20)
+    at Socket._onTimeout (net.js:482:8)
+    at listOnTimeout (internal/timers.js:549:17)
+    at processTimers (internal/timers.js:492:7)
+    --------------------
+    at Protocol._enqueue (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:144:48)
+    at Protocol.handshake (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\protocol\Protocol.js:51:23)
+    at PoolConnection.connect (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Connection.js:116:18)
+    at Pool.getConnection (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:48:16)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    at new Promise (<anonymous>)
+    at Pool.<anonymous> (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:12:10)
+    at Pool.ret [as getConnection] (F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:56:34)
+    at Pool.query (F:\bishe\school_back\node_modules\_mysql@2.18.1@mysql\lib\Pool.js:202:8)
+    at F:\bishe\school_back\node_modules\_pify@2.3.0@pify\index.js:29:7
+    sql: select * from task where user_id1='2'
+errorno: "ETIMEDOUT"
+code: "ETIMEDOUT"
+syscall: "connect"
+fatal: true
+headers: {"Access-Control-Allow-Origin":"*","vary":"Origin"}
+name: "ETIMEDOUTError"
+pid: 19620
+hostname: DESKTOP-CJF7Q63
+
